@@ -1004,8 +1004,12 @@ nav li>a{
 #image-1 {
     background-image: url(images/525e87bbdd201.jpg);
 }
+
 #image-2 {
-	background-image: url(images/paula_fernandes_brazil_brasil_singer_people_hd-wallpaper-693731.jpg);
+	background-image: url(images/paula13.jpg);
+}
+#image-3 {
+    background-image: url(images/paula15.jpg);
 }
 .background-img {
     height: 100vh;
@@ -1127,6 +1131,10 @@ float:left;
 }
 #my-function p{
 	color: white;
+}
+img{
+    margin-top: 20px;
+    margin-bottom: 5px;
 }
 
 

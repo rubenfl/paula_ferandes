@@ -47,8 +47,8 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li><a href="https://wpmmp.bmcc.cuny.edu/~rfernand/" rel="home">Home</a></li>
-        <li><a href="wp-content/themes/paula_fernandes/pages/about.html">About</a></li>
-        <li class="page_item page-item-36"><a href="https://wpmmp.bmcc.cuny.edu/~rfernand/?page_id=36">Blog</a></li>
+        <li><a href=" https://wpmmp.bmcc.cuny.edu/~rfernand/about-paula-fernandez/">About</a></li>
+        <li><a href="https://wpmmp.bmcc.cuny.edu/~rfernand/blog-2/">Blog</a></li>
       </ul>
     </div>
     </div>
